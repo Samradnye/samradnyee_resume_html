@@ -1,0 +1,49 @@
+<html>
+<title> Samradnyee Chintamani's Resume </title>
+<head><h1>Resume</h1></head>
+
+<body>
+<u><b>Name:-</b> Samradnyee Chintamani</br></u>
+<b>Qualification:-</b> Electronics and Telecommunication Engg.</br>
+<b>Date of Birth:-</b> 24th November 2001.</br>
+<b>Objective:-</b> To develop a comfortable attitude around colleagues, to learn the work from experienced authorities. Explore the new skills and work for the organisation's growth and development.</br>
+
+<p><b>Skills:-</b>
+<ul>
+<li>Digital Electronics</li>
+<li>HTML and CSS</li>
+<li>Python (Basics)</li>
+<li>Microsoft Office</li>
+<li>8051 Microcontroller (Basics)</li></ul></p>
+
+<p><b>Work Experience:-</b></br>
+<b>CHANDRA ELECTRICALS AND ELECTRONICS PVT.LTD. (Intern/Trainee)</b></br>
+I was responsible for part fitting and making the connections from various PLC to various devices and components.</p>
+
+<p><b>Academic History:-</b></br>
+<ol>
+<li><b>Maharshtra Institute of Technology, Aurangabad.</b></br>
+Dr.Babasaheb Ambedkar Marathwada University.</br>
+Graduation course- Electronics and Telecommunication Engg. 2023 Batch</li> 
+<li><b>Marathwada Institute of Technology- Polytechnic, Aurangabad.</b></br>
+Diploma course- Electronics and Telecommunication Engg. 2020 Batch- Avg. 86.88%</li>
+<li><b>Kids kingdom English High School, Aurangabad. </b></br>
+State Board SSC Examination. 2017 Batch- Avg.77%</li>
+</ol></p>
+
+<p><b>Projects:-</b></br>
+<ol>
+<li><b>3D LED Cube- Academic Project</b></br>
+This project is made using the AVR microcontroller. This project displays the different 3D images with the help of LEDs.</li>
+<li><b>Face the Word-</b></br>
+It is a software word guessing game.The programming of this game is done in python language.</li></ol> 
+
+<p><b>Contact Information:-</b></br>
+<ul>
+<li>Email- samradnyeechintamani401@gmail.com</li>
+<li>Facebook- Samradnyee Chintamani </li>
+<li>Instagram- samradnyee_chintamani</li>
+<li>Linkedin- Samradnyee Chintamani</li></ul></p>
+
+</body>
+</html>
